@@ -1,5 +1,5 @@
 # Collegedemo
 This is my first repository
 <br>
-AUthor: Aravind Kolan
+AUthor: Aravind Kolanu
 no no
